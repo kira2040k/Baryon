@@ -24,4 +24,4 @@
 <br>
 
 <center><img src="https://img.icons8.com/color/360/000000/windows-10.png" /></p></center>
-<center><p style="font-size:40px"><a href="https://github.com/kira2040k/php_titan/releases/tag/linux64">download for Windows</a></center></p>
+<center><p style="font-size:40px"><a href="https://github.com/kira2040k/Baryon/releases/tag/windows">download for Windows</a></center></p>
